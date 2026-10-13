@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -35,5 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
