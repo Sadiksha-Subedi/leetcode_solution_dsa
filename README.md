@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0119-pascals-triangle-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
