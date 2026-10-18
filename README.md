@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0485-max-consecutive-ones) |
+| [0867-transpose-matrix](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
