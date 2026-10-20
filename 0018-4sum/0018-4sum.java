@@ -3,7 +3,6 @@ class Solution {
 
         List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
-        if (target <= 0 && nums[0] > 0) return res;
         for (int i = 0; i < nums.length-3; i++){           //for 3 sum its < nums.length -2
             if (i > 0 && nums[i] == nums[i-1]) continue;
             for (int j = i+1 ; j < nums.length -2; j++){    
@@ -12,7 +11,7 @@ class Solution {
                 int l = nums.length-1;
 
                 while (l > k){
-                    long total = nums[i]+ nums[j]+ nums[k]+ nums[l];
+                    long total = (long) nums[i]+ nums[j]+ nums[k]+ nums[l];   //taking care of the overflow
                     if  (total > target){
                         l--;
                     }
