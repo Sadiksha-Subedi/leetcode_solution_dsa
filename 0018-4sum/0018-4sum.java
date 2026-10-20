@@ -6,7 +6,6 @@ class Solution {
 
         //optional check for early exit
         if (nums[0]>= 0 && target < 0) return res;   //the array contains all positive numbers but target is negative
-        if (nums[nums.length -1] < 0 && target >= 0) return res;
         for (int i = 0; i < nums.length-3; i++){           //for 3 sum its < nums.length -2
             if (i > 0 && nums[i] == nums[i-1]) continue;
             for (int j = i+1 ; j < nums.length -2; j++){    
