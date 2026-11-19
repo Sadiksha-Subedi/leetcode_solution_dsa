@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0119-pascals-triangle-ii) |
 ## Quicksort
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0701-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
