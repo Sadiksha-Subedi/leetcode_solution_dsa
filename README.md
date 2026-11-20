@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0119-pascals-triangle-ii) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
