@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0119-pascals-triangle-ii) |
+| [1143-longest-common-subsequence](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/1143-longest-common-subsequence) |
 ## Quicksort
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0020-valid-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sadiksha-Subedi/leetcode_solution_dsa/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
